@@ -1,0 +1,11 @@
+JS Quiz
+Features list:
+1. Hints with display of how many hints are left unique styling on box
+2. Debugged timer with functioning hints
+3. Added a fun fact about the brand if answer is correct, said which is the correct answer if ist wrong
+
+Small Improvements:
+Made score at the bottom always show
+More modern colour scheme
+Added hover underlines on buttons
+Shows what question you are currently on
